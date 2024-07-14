@@ -9,3 +9,20 @@
 2. Intermediate developers looking to refine their skills
 3. Individuals who prefer learning in Hindi
  </pr>
+<h3> What You'll Master: </h3>
+<h4> During this course, you'll delve into: </h4>
+<pr>
+1. The fundamentals of HTML, CSS, and JavaScript
+2. Both front-end and back-end development
+3. How to seamlessly integrate databases
+4. Real-world project implementation
+5. And a whole lot more!
+ </pr>
+ <h4> The Schedule: </h4>
+ <pr>
+We're committed to your growth. Expect fresh source code additions nearly every day. Keep up the pace with our schedule and watch your skills soar! 📅
+
+Get ready to embark on an exciting coding journey! 👨‍💻🌟
+
+Ready to start? Click here to access the complete YouTube playlist.
+ </pr>
